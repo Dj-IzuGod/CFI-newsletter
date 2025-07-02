@@ -16,7 +16,7 @@ function Form() {
           <img
             alt="Your Company"
             src="/images/cfi logo.jpeg"
-            className="mx-auto h-10 w-auto"
+            className="mx-auto h-20 w-auto"
           />
           <h2 className="mt-10 text-center text-2xl/9 font-bold tracking-tight text-gray-900">
             Sign up to CFI FUTO Newsletter
